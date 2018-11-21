@@ -50,5 +50,7 @@ else{
 </div>
 
 
+<a href='../index2.php'>index2</a>
+
 
 </body>
