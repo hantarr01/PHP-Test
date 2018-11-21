@@ -20,22 +20,11 @@ body {
     font-family: cursive;
 }
 
-.b3 {
-	width: 300px;
-	height: 70px;
-	background-color: white;
-    color: blue;
-    position: absolute;
-    left: 700px;
-    top: 50px;
-    text-decoration: cursive;
-    font-family: cursive;
+.b3{
+    height: 50px;
+    width: 350px;
+    background-color: yellow;
 }
 
 
-.b4 {
-    position: absolute;
-    left: 700px;
-    top: 120px;
-}
 

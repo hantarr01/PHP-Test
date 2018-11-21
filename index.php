@@ -36,45 +36,18 @@ else{
 
 
 <?php
- function getz(){
-
-   echo "<div class=b3> Отправляю Гет запрос, только это тайна ;). Серьезно не пытайся меня взломать! </div>";
-
+ function gg(){
+   echo "<div class = b3> g найдена, блок выведен </div>";
  }
   
-  if (isset($_GET['Zapros_sobstvenno'])) {
-
-     getz();
-
+  if (isset($_GET['g'])) {
+      gg();
   }
-
 ?>
 
 <div class="b4">
-<a href='index.php?Zapros_sobstvenno=true'>Тыкай ;)</a>
+<a href='index.php?g=true'>Тыкай ;)</a>
 </div>
-
-
-
-<?php
-
-$arr = [1,2,4,56,7,86,9,0];
-
-$con = count($arr);
-
-$nul = 0;
-
-for( $i = 0;  $i < $con;  $i++){ 
-
-if (){
-
-#To be continied
-
-}
-
-}
-
-?>
 
 
 
